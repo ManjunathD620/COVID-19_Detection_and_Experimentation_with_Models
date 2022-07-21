@@ -29,3 +29,5 @@ Detecting COVID-19 in X-ray images with Keras, TensorFlow, and Deep Learning. Im
 
 # TESTING AND RESULTS
 ![Result](https://user-images.githubusercontent.com/82793670/180181650-59f0e91a-c445-4635-9217-2e7e8ea08f12.jpg)
+
+### <b>--> Custom model was able to achieve an accuracy of 92.50% over 10 epochs .</b>
